@@ -1,16 +1,16 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "channel": "stable",
   "deviceType": "hub",
   "hardwareFamily": "hub-esp32p4",
   "minVersion": "0.1.0",
-  "publishedAt": "2026-05-04T23:03:44Z",
+  "publishedAt": "2026-05-04T23:34:46Z",
   "artifacts": {
     "firmware": {
       "url": "https://raw.githubusercontent.com/cron1c/growops-firmware-artifacts/main/hub/esp32p4/stable/firmware.bin",
-      "sha256": "42e55b730e44e71994cabb5b07ff10cbfd0cfdbecb2dd91049770dd8b12a3d5a",
-      "size": 1093248
+      "sha256": "e6c0066e4ae64fcad045b1787635655e39d51652e83a8c81f87bf41b36f2f902",
+      "size": 1097072
     }
   },
-  "signature": "MEYCIQDtQD9+i39vIY30Z4db2pTuRzS8+Er5TJhJi11/AAm13AIhAM3ualyM6xvjDNV/R4HfGhPyDwhE8PKdCNucAEK8xvmj"
+  "signature": "MEQCIBkNV5A5v8N6M+C8dcyG+5vONTQ7WruUoj1CEyJTxEawAiAvzbzRbaDq5kKyJQNAwSEPcFvZTDjKRDOnqZ4b4wewaQ=="
 }

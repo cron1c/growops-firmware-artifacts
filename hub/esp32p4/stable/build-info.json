@@ -1,12 +1,12 @@
 {
   "device_type": "hub",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "target": "esp32p4",
   "idf_version": "v5.3.2",
-  "built_at": "2026-05-04T23:03:41Z",
-  "git_sha": "32fe10a7a7dae21ad32f08672531b351b36f55fd",
-  "firmware_sha256": "42e55b730e44e71994cabb5b07ff10cbfd0cfdbecb2dd91049770dd8b12a3d5a",
-  "firmware_size": 1093248,
+  "built_at": "2026-05-04T23:34:42Z",
+  "git_sha": "5543f108cbcf054beb1c7694fca460051a932e2e",
+  "firmware_sha256": "e6c0066e4ae64fcad045b1787635655e39d51652e83a8c81f87bf41b36f2f902",
+  "firmware_size": 1097072,
   "flash_layout": {
     "bootloader": "0x2000",
     "partition_table": "0x8000",
